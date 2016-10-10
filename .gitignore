@@ -1,0 +1,19 @@
+#Folders
+/.gradle
+/.idea
+
+/build
+/out
+/lib
+/classes
+
+weapon-sales-app.iml
+user.properties
+gradlew
+gradlew.bat
+gradle
+
+#Configuration files
+/src/main/resources/application.properties
+/src/main/resources/database.properties
+/src/main/resources/hibernate.properties
